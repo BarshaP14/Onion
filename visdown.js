@@ -2,25 +2,25 @@ window.onload = function () {
 
 	//theme
 	var config = {
-		"background": 'black',
-		"legend":{
-			"domainColor": "white",
-			"tickColor": "white",
-			"labelColor": "white",
-			"tickLabelColor": "white",
-			"titleColor": "white"		
-		},
-		"axis":{
-			"domainColor": "white",
-			"tickColor": "white",
-			"labelColor": "white",
-			"tickLabelColor": "white",
-			"titleColor": "white"		
-		},
+		// "background": 'black',
+		// "legend":{
+		// 	"domainColor": "white",
+		// 	"tickColor": "white",
+		// 	"labelColor": "white",
+		// 	"tickLabelColor": "white",
+		// 	"titleColor": "white"		
+		// },
+		// "axis":{
+		// 	"domainColor": "white",
+		// 	"tickColor": "white",
+		// 	"labelColor": "white",
+		// 	"tickLabelColor": "white",
+		// 	"titleColor": "white"		
+		// },
 
-		"range": {
-			"category": {"scheme": "dark2"},
-		}
+		// "range": {
+		// 	"category": {"scheme": "dark2"},
+		// }
 	};
 
 	// Start a new marked instance and renderer
